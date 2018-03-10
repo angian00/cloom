@@ -178,6 +178,3 @@ def to_int(bytes):
 def to_str(bytes):
 	return bytes.decode("ascii").rstrip("\0")
 
-
-if __name__ == "__main__":
-	main()

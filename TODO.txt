@@ -1,8 +1,5 @@
 ## TODO
 
-v game loop Qt5 e scomposizione in moduli
-- creare progetto git
-
 - posizionare camera
 - visualizz pianta 2D (lines)
 - parsing texture
