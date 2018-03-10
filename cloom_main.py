@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 
+
 from cloom_graphics import GameWidget
 from cloom_parser import Wad
 
-
+import os.path
 from PyQt5 import QtWidgets
 
 
