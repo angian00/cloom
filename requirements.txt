@@ -1,0 +1,5 @@
+moderngl==5.0.4
+numpy==1.14.1
+Pillow==5.0.0
+PyQt5==5.10.1
+sip==4.19.8

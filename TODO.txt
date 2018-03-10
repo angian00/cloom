@@ -1,0 +1,22 @@
+## TODO
+
+v game loop Qt5 e scomposizione in moduli
+- creare progetto git
+
+- posizionare camera
+- visualizz pianta 2D (lines)
+- parsing texture
+- visualizz texture floor
+
+- costruzione pareti e soffitto
+- movimento
+- visualizz sprites fissi
+- visualizz sprites animati
+- collision detection
+	- raccolta oggetti
+	- proiettili
+
+- apertura porte
+- fog of war
+
+- AI mostri
