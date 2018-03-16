@@ -1,8 +1,6 @@
 ## TODO
 
 - posizionare camera
-- visualizz pianta 2D (lines)
-- parsing texture
 - visualizz texture floor
 
 - costruzione pareti e soffitto
@@ -17,3 +15,8 @@
 - fog of war
 
 - AI mostri
+
+
+### FIXME
+- composizione texture multipatch:
+	- gestione out-of-bounds

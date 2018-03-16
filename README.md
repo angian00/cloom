@@ -4,7 +4,13 @@ Trying my hand at a Doom engine implementation.
 In Python + OpenGL + Qt5.
 
 
-Progress so far (v0.1):
+##  In progress
+- parsing texture lumps, and building their images
+
+
+##  Release history
+
+### v0.1
 - Some WAD lump types implemented (images, palette, basic level geometry)
 - Basic Qt5/OpenGL initialization + game loop
 - 2D rendering of level map
@@ -13,7 +19,7 @@ Progress so far (v0.1):
 ##  Next Milestones
 
 - v0.2: 3D visualization of floor wireframe
-- v0.3: parsing texture lumps; applying floor texture
+- v0.3: parsing texture lumps; parsing flats; applying floor texture
 - v0.4: walls and ceiling(fixed height)
 - v0.5: movement
 
